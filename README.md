@@ -27,6 +27,8 @@
 - drag & drop dist file
 - change site name
 
+## Deploying the app on Github(gh-pages) 
+
   
 # Getting Started with Create React App
 
