@@ -18,6 +18,16 @@
 - copy font-awsome link to ./public/index.html
 - npm run build
 
+## Deploying the app on (Netlify)
+
+- npm run build
+- open build or dist file
+- open [Netlify](https://www.netlify.com/)
+- add new site Deploy manually
+- drag & drop dist file
+- change site name
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
