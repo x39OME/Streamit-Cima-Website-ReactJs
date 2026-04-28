@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/x39OME/Streamit-Cima-Website-ReactJs/static/css/main.bdf0efa2.css",
+    "main.js": "/x39OME/Streamit-Cima-Website-ReactJs/static/js/main.4ab84137.js",
+    "static/js/453.0e5ef636.chunk.js": "/x39OME/Streamit-Cima-Website-ReactJs/static/js/453.0e5ef636.chunk.js",
+    "static/media/texure.jpg": "/x39OME/Streamit-Cima-Website-ReactJs/static/media/texure.5fd81b0ea718d21dec89.jpg",
+    "static/media/slick.svg": "/x39OME/Streamit-Cima-Website-ReactJs/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/x39OME/Streamit-Cima-Website-ReactJs/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/x39OME/Streamit-Cima-Website-ReactJs/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/x39OME/Streamit-Cima-Website-ReactJs/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/x39OME/Streamit-Cima-Website-ReactJs/index.html",
+    "main.bdf0efa2.css.map": "/x39OME/Streamit-Cima-Website-ReactJs/static/css/main.bdf0efa2.css.map",
+    "main.4ab84137.js.map": "/x39OME/Streamit-Cima-Website-ReactJs/static/js/main.4ab84137.js.map",
+    "453.0e5ef636.chunk.js.map": "/x39OME/Streamit-Cima-Website-ReactJs/static/js/453.0e5ef636.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdf0efa2.css",
+    "static/js/main.4ab84137.js"
+  ]
+}
