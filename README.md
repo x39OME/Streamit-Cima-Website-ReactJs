@@ -26,6 +26,7 @@
 - add new site Deploy manually
 - drag & drop dist file
 - change site name
+- [Link](https://streamit-cima-reactjs.netlify.app/)
 
 ## Deploying the app on Github(gh-pages)
 
@@ -42,7 +43,8 @@
 - git init
 - git remote add origin https://github.com/x39OME/essam.git
 - npm run deploy
-  
+- [Link](https://x39ome.github.io/Streamit-Cima-Website-ReactJs/#/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
