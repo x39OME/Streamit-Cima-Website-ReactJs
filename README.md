@@ -44,7 +44,33 @@
 - git remote add origin https://github.com/x39OME/essam.git
 - npm run deploy
 - [Link](https://x39ome.github.io/Streamit-Cima-Website-ReactJs/#/)
+### File .gitignore 
+```
+  مهم لاجل تجاهل رفع ملفات النود للgit
+  # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+```        
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
